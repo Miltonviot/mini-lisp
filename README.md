@@ -4,12 +4,7 @@ Projeto acadêmico em Python que lê um arquivo `.lisp`, realiza as análises l�
 
 ## Requisitos
 
-- Windows 10 ou 11
 - Python 3.10 ou superior
-
-```bat
-python -m unittest discover -s testes -v
-```
 
 ## Como executar no Windows
 
